@@ -1,4 +1,8 @@
-🏞 Aloha !!! Eu sou a Adelvane 👩🏾 
+Opa, bão demais? <br> Eu sou a Adelvane 👩🏾 
+<br> 👩🏾‍🎓Sou estudante do curso de Análise e desenvolvimento de Sistemas<br>
+      👩🏾‍💻Aluna do curso Desenvolvimento de Software com foco em Backend na Cubos Academy (mas também tenho uma queda pelo Front).
+      <br> <br>
+      Nota sobre mim: Diria que a curiosidade e a minha comunicação são meus pontos mais fortes. 
 
   🤓 Toda história de sucesso traz episódios de desafios e fracassos!
   
