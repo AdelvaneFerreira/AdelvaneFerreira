@@ -1,6 +1,7 @@
 Opa, bão demais? <br> Eu sou a Adelvane 👩🏾 
 <br> 👩🏾‍🎓Sou estudante do curso de Análise e desenvolvimento de Sistemas<br>
-      👩🏾‍💻Aluna do curso Desenvolvimento de Software com foco em Backend na Cubos Academy (mas também tenho uma queda pelo Front).<br>
+      👩Desenvolvedora  de Software com foco em Backend pela  Cubos Academy<br>
+      🤓Aprendendo Nest e Typescript <br>
       👩🏾‍💻SEO Assistant At Cadastra
       <br> <br>
       
